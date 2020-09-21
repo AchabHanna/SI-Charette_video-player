@@ -5,6 +5,7 @@
  ![Otaku](src/images/Gif/otaku.gif)
 
 ## Membres :
+  - Quentintrouve
   - Anthony Roux
   - Quentin Trouvé
   - Hanna Achab
